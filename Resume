@@ -18,6 +18,12 @@
 
     <h2>Education</h2>
     <table border="1" cellpadding="5">
+       <tr>
+            <th>Degree</th>
+            <th>college</th>
+            <th>Year</th>
+            <th>percentage</th>
+        </tr>
            <td>B.Tech</td>
             <td>vignan university</td>
             <td>2023</td>
